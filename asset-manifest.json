@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Krishna1705/monstors-rolodex-live/static/css/main.7124a4ca.chunk.css",
+    "main.js": "/Krishna1705/monstors-rolodex-live/static/js/main.bae02e2e.chunk.js",
+    "main.js.map": "/Krishna1705/monstors-rolodex-live/static/js/main.bae02e2e.chunk.js.map",
+    "runtime-main.js": "/Krishna1705/monstors-rolodex-live/static/js/runtime-main.d99529cb.js",
+    "runtime-main.js.map": "/Krishna1705/monstors-rolodex-live/static/js/runtime-main.d99529cb.js.map",
+    "static/js/2.b889e309.chunk.js": "/Krishna1705/monstors-rolodex-live/static/js/2.b889e309.chunk.js",
+    "static/js/2.b889e309.chunk.js.map": "/Krishna1705/monstors-rolodex-live/static/js/2.b889e309.chunk.js.map",
+    "static/js/3.bae676e1.chunk.js": "/Krishna1705/monstors-rolodex-live/static/js/3.bae676e1.chunk.js",
+    "static/js/3.bae676e1.chunk.js.map": "/Krishna1705/monstors-rolodex-live/static/js/3.bae676e1.chunk.js.map",
+    "index.html": "/Krishna1705/monstors-rolodex-live/index.html",
+    "static/css/main.7124a4ca.chunk.css.map": "/Krishna1705/monstors-rolodex-live/static/css/main.7124a4ca.chunk.css.map",
+    "static/js/2.b889e309.chunk.js.LICENSE.txt": "/Krishna1705/monstors-rolodex-live/static/js/2.b889e309.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d99529cb.js",
+    "static/js/2.b889e309.chunk.js",
+    "static/css/main.7124a4ca.chunk.css",
+    "static/js/main.bae02e2e.chunk.js"
+  ]
+}
